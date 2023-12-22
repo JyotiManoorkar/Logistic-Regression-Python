@@ -18,7 +18,7 @@
 <p> 6.	using standard scaler scale data 0-1</p>
 <p> Step 6: Model Deployment</p>
 
-<h4>With Logistic regression model we obtained descent accuracy as 78 % </h4>
+<i><h3><font color = "33FF99">With Logistic regression model we obtained descent accuracy as 78 % </font></h3></i>
 
  
 
