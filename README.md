@@ -1,8 +1,8 @@
-<b><strong>Titanic survivors</strong></b>
+<h1>Titanic survivors</h1>
 <p>we are going to go through the popular Titanic dataset and try to predict whether a person survived the shipwreck.
  Dataset downloaded from Kaggle.</p>
 
-<b>The Goal: Predict whether a passenger survived or not. 0 for not surviving, 1 for surviving.</b>
+<h4>The Goal: Predict whether a passenger survived or not. 0 for not surviving, 1 for surviving.</h4>
 
 <p>we did some basic data analysis, then some feature engineering, and in the end-use some of the popular models for prediction. <p>
 <p> Step 1: Importing basic libraries</p>
@@ -18,7 +18,7 @@
 <p> 6.	using standard scaler scale data 0-1</p>
 <p> Step 6: Model Deployment</p>
 
-<p><b>With Logistic regression model we obtained descent accuracy as 78 % </b> </p>
+<h4>With Logistic regression model we obtained descent accuracy as 78 % </h4>
 
  
 
